@@ -2,10 +2,14 @@
 
 ## How to use
 
-1. [MS Learn](https://learn.microsoft.com/en-us/azure/databricks/introduction/) にアクセスし、拡張機能のボタンをクリック
+1. [MS Learn](https://learn.microsoft.com/en-us/azure/databricks/introduction/) にアクセスし、
+   右上のプルダウンをクリック
+   ![alt text](images/README/image-4.png)
+
+   もしくは拡張機能のボタンをクリック
    ![alt text](images/README/image-2.png)  
 
-2. 英語⇔日本語で切り替えられる
+2. 英語⇔日本語 を切り替えられる
    ![alt text](images/README/image-3.png)  
 
 ## How to install
